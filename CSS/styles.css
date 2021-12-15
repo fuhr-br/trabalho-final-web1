@@ -228,6 +228,9 @@ footer > span{
 	margin-top:10px;
 	margin-left:20px;
 }
-footer > a > img{
-width:80px; margin-left:83%
+footer > a > i{
+width:80px;
+margin-left:83%;
+font-size: 48px;
+color:black;
 }
